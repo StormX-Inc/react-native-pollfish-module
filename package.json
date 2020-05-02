@@ -1,0 +1,33 @@
+{
+  "name": "react-native-pollfish",
+  "title": "React Native Pollfish",
+  "version": "1.0.0",
+  "description": "A react-native interface for using Pollfish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-pollfish.git",
+    "baseUrl": "https://github.com/github_account/react-native-pollfish"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Felipe Almeida",
+    "email": "felipe@stormx.io"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
